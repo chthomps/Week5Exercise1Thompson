@@ -6,8 +6,8 @@ public class TwoDArray {
 		int csvValue=0;
 		
 		int [][] values = {{ 1,4,6,7,8},
-							{2,3,1,5,6},
-							{3,2,1,4,5}};
+				   {2,3,1,5,6},
+				   {3,2,1,4,5}};
 		
 		String fileName ="input.csv";
 		
